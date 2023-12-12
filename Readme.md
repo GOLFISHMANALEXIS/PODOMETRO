@@ -125,7 +125,7 @@ Con el podómetro registrado un paso largo 1 corto con las distancias y aplicó 
 <center>
 
 ## LINK DE GALERIA
-<a href="hhttps://gallery.appinventor.mit.edu/?galleryid=8404cce3-b559-47c3-b57e-8a46c4ed114c" style="text-decoration: none; display: inline-block; padding: 10px 20px; border: 2px solid #555; border-radius: 5px; background-color: #007bff; color: #fff; font-size: 16px;" rel="noopener">
+<a href="https://gallery.appinventor.mit.edu/?galleryid=8404cce3-b559-47c3-b57e-8a46c4ed114c" style="text-decoration: none; display: inline-block; padding: 10px 20px; border: 2px solid #555; border-radius: 5px; background-color: #007bff; color: #fff; font-size: 16px;" rel="noopener">
   GALERÍA
 </a>
 
